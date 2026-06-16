@@ -2,7 +2,9 @@
 
 A full-stack, production-grade emergency response platform built for the Kanyakumari region. RAKSHA provides instant SOS activation, real-time ambulance tracking, AI-guided first aid, and a complete emergency management ecosystem.
 
+
 ## 📱 Features
+
 
 ### User Features
 - **SOS Button** — Press & hold 3 seconds to trigger emergency
